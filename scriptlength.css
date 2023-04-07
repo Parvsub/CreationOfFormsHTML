@@ -4,7 +4,7 @@ html, input{
 
 body{
     width : 100%;
-    max-width: 600px;
+    max-width: 500px;
     margin: 0px auto;
     padding: 2em;
 }
@@ -15,9 +15,8 @@ body{
     align-content: center; 
     background-color: bisque;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
-
 form{
     margin-top: 50px;
 }
